@@ -1,0 +1,13 @@
+.idea
+*.pyc
+
+*.egg-info
+*.log
+*.out
+nohup*
+
+build
+dist
+Ticket-app*.conf
+reports
+*.html
